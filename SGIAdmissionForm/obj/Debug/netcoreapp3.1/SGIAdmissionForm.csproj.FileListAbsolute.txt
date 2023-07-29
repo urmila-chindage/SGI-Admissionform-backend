@@ -1,0 +1,208 @@
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SGIAdmissionForm.exe
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SGIAdmissionForm.deps.json
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SGIAdmissionForm.runtimeconfig.json
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SGIAdmissionForm.runtimeconfig.dev.json
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SGIAdmissionForm.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SGIAdmissionForm.pdb
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\AWSSDK.SecurityToken.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Snappier.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\ZstdSharp.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.csproj.AssemblyReference.cache
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.AssemblyInfoInputs.cache
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.AssemblyInfo.cs
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.csproj.CoreCompileInputs.cache
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\staticwebassets\SGIAdmissionForm.StaticWebAssets.Manifest.cache
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\staticwebassets\SGIAdmissionForm.StaticWebAssets.Pack.cache
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SGIAdmissionForm.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SGIAdmissionForm.props
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SGIAdmissionForm.props
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SGIAdmissionForm.props
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.RazorTargetAssemblyInfo.cache
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.csproj.CopyComplete
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.dll
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.pdb
+C:\Users\GS\source\repos\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.genruntimeconfig.cache
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\appsettings.json
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SGIAdmissionForm.exe
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SGIAdmissionForm.deps.json
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SGIAdmissionForm.runtimeconfig.json
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SGIAdmissionForm.runtimeconfig.dev.json
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SGIAdmissionForm.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SGIAdmissionForm.pdb
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\AWSSDK.SecurityToken.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\DnsClient.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SharpCompress.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Snappier.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\ZstdSharp.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.csproj.AssemblyReference.cache
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.AssemblyInfoInputs.cache
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.AssemblyInfo.cs
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.csproj.CoreCompileInputs.cache
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.MvcApplicationPartsAssemblyInfo.cs
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.MvcApplicationPartsAssemblyInfo.cache
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\staticwebassets\SGIAdmissionForm.StaticWebAssets.Manifest.cache
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\staticwebassets\SGIAdmissionForm.StaticWebAssets.Pack.cache
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SGIAdmissionForm.Microsoft.AspNetCore.StaticWebAssets.props
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SGIAdmissionForm.props
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SGIAdmissionForm.props
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SGIAdmissionForm.props
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.RazorTargetAssemblyInfo.cache
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.csproj.CopyComplete
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.dll
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.pdb
+E:\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.genruntimeconfig.cache
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SGIAdmissionForm.exe
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SGIAdmissionForm.deps.json
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SGIAdmissionForm.runtimeconfig.json
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SGIAdmissionForm.runtimeconfig.dev.json
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SGIAdmissionForm.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SGIAdmissionForm.pdb
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\AWSSDK.SecurityToken.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\DnsClient.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SharpCompress.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Snappier.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\ZstdSharp.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.csproj.AssemblyReference.cache
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.AssemblyInfoInputs.cache
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.AssemblyInfo.cs
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.csproj.CoreCompileInputs.cache
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.MvcApplicationPartsAssemblyInfo.cs
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.MvcApplicationPartsAssemblyInfo.cache
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\staticwebassets\SGIAdmissionForm.StaticWebAssets.Manifest.cache
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\staticwebassets\SGIAdmissionForm.StaticWebAssets.Pack.cache
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SGIAdmissionForm.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SGIAdmissionForm.props
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SGIAdmissionForm.props
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SGIAdmissionForm.props
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.RazorTargetAssemblyInfo.cache
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.csproj.CopyComplete
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.dll
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.pdb
+D:\Aakash\AdmissionForm\New folder\SGI\SGIAdmissionForm\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.genruntimeconfig.cache
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\appsettings.json
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SGIAdmissionForm.exe
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SGIAdmissionForm.deps.json
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SGIAdmissionForm.runtimeconfig.json
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SGIAdmissionForm.runtimeconfig.dev.json
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SGIAdmissionForm.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SGIAdmissionForm.pdb
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\AWSSDK.SecurityToken.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\DnsClient.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\SharpCompress.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Snappier.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\ZstdSharp.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.csproj.AssemblyReference.cache
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.AssemblyInfoInputs.cache
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.AssemblyInfo.cs
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.csproj.CoreCompileInputs.cache
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.MvcApplicationPartsAssemblyInfo.cs
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.MvcApplicationPartsAssemblyInfo.cache
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\obj\Debug\netcoreapp3.1\staticwebassets\SGIAdmissionForm.StaticWebAssets.Manifest.cache
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\obj\Debug\netcoreapp3.1\staticwebassets\SGIAdmissionForm.StaticWebAssets.Pack.cache
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SGIAdmissionForm.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SGIAdmissionForm.props
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SGIAdmissionForm.props
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SGIAdmissionForm.props
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.RazorTargetAssemblyInfo.cache
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.csproj.CopyComplete
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.dll
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.pdb
+D:\SGI-Website-Project\SGI\SGI-website-backend-code\SGIAdmissionForm\obj\Debug\netcoreapp3.1\SGIAdmissionForm.genruntimeconfig.cache
